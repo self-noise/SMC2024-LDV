@@ -2,6 +2,7 @@
 Supporting materials for conference paper submitted to Sound &amp; Music Computing 2024 on the topic of laser doppler vibrometry for immersive sound design.
 
 Paper title: Perspectives on immersion through laser doppler vibrometry
+
 Paper author(s): Roderick Buchanan-Dunlop, Michael J. Newton, and Martin Parker
 
 Audio examples (.wav files):
