@@ -1,13 +1,12 @@
 # SMC2024-LDV
-Supporting materials for conference paper submitted to Sound &amp; Music Computing 2024 on the topic of laser doppler vibrometry for immersive sound design.
+**Contents:** Supporting materials for conference paper submitted to Sound &amp; Music Computing 2024 on the topic of laser doppler vibrometry for immersive sound design.
 
-Paper title: Perspectives on immersion through laser doppler vibrometry
+**Paper title:** Perspectives on immersion through laser doppler vibrometry
 
-Paper author(s): Roderick Buchanan-Dunlop, Michael J. Newton, and Martin Parker
+**Paper author(s):** Roderick Buchanan-Dunlop, Michael J. Newton, and Martin Parker
 
 ------------------------
---- Archive contents ---
-------------------------
+**Archive contents**
 
 Audio examples (.wav files):
 
